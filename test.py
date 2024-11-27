@@ -1,0 +1,1 @@
+print('Actual nitish coide, sorry deeti i checged old code on you compter')
